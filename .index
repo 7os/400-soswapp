@@ -1,6 +1,6 @@
 {
   "http" : true,
-  "name" : "web-page-400",
+  "name" : "web-app-400",
   "path" : "\/400",
   "title" : "400 Error page",
   "sub-path" : [
