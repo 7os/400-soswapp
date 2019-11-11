@@ -1,8 +1,8 @@
 {
-    "name": "7os/400-webapp",
+    "name": "7os/400-soswapp",
     "description": "7 OS Web - 400 - Bad Request page",
     "keywords": ["php", "javascript","7","seven","os","web","page", "400", "bad", "request"],
-    "homepage": "https://github.com/7os/400-webapp",
+    "homepage": "https://github.com/7os/400-soswapp",
     "type": "library",
     "license": "MIT",
     "authors": [
